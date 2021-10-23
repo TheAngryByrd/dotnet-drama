@@ -10,7 +10,8 @@ Because where there's drama there's comedy.
 
 ## How
 
-Install `dotnet tool install -g dotnet-drama`
+1. Install `dotnet tool install -g dotnet-drama` 
+2. Then run `dotnet-drama`
 
 ---
 

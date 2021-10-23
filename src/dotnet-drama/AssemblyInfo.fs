@@ -4,20 +4,20 @@ open System.Reflection
 
 [<assembly: AssemblyTitleAttribute("dotnet-drama")>]
 [<assembly: AssemblyProductAttribute("dotnet-drama")>]
-[<assembly: AssemblyVersionAttribute("0.1.1")>]
+[<assembly: AssemblyVersionAttribute("1.0.0")>]
 [<assembly: AssemblyMetadataAttribute("ReleaseDate","2021-10-23T00:00:00.0000000-04:00")>]
-[<assembly: AssemblyFileVersionAttribute("0.1.1")>]
-[<assembly: AssemblyInformationalVersionAttribute("0.1.1")>]
+[<assembly: AssemblyFileVersionAttribute("1.0.0")>]
+[<assembly: AssemblyInformationalVersionAttribute("1.0.0")>]
 [<assembly: AssemblyMetadataAttribute("ReleaseChannel","release")>]
-[<assembly: AssemblyMetadataAttribute("GitHash","f97538a3e04272bfa1ba7aae6a30ceef8ab74602")>]
+[<assembly: AssemblyMetadataAttribute("GitHash","8bd533ff6a97c38473886f72bb3a85760fdc217d")>]
 do ()
 
 module internal AssemblyVersionInformation =
     let [<Literal>] AssemblyTitle = "dotnet-drama"
     let [<Literal>] AssemblyProduct = "dotnet-drama"
-    let [<Literal>] AssemblyVersion = "0.1.1"
+    let [<Literal>] AssemblyVersion = "1.0.0"
     let [<Literal>] AssemblyMetadata_ReleaseDate = "2021-10-23T00:00:00.0000000-04:00"
-    let [<Literal>] AssemblyFileVersion = "0.1.1"
-    let [<Literal>] AssemblyInformationalVersion = "0.1.1"
+    let [<Literal>] AssemblyFileVersion = "1.0.0"
+    let [<Literal>] AssemblyInformationalVersion = "1.0.0"
     let [<Literal>] AssemblyMetadata_ReleaseChannel = "release"
-    let [<Literal>] AssemblyMetadata_GitHash = "f97538a3e04272bfa1ba7aae6a30ceef8ab74602"
+    let [<Literal>] AssemblyMetadata_GitHash = "8bd533ff6a97c38473886f72bb3a85760fdc217d"
