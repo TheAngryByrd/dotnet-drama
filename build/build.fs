@@ -720,7 +720,7 @@ let initTargets () =
         ==> "DotnetTest"
         =?> ("GenerateCoverageReport", not disableCodeCoverage)
         ==> "DotnetPack"
-        ==> "SourceLinkTest"
+        // ==> "SourceLinkTest"
         ==> "PublishToNuGet"
         ==> "GitRelease"
         ==> "GitHubRelease"
