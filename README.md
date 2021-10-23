@@ -1,6 +1,16 @@
 # dotnet-drama
 
-[Enter useful description for dotnet-drama]
+## What is this?
+
+This tool reports how many days it's been since .NET community had drama.
+
+## Why?
+
+Because where there's drama there's comedy.
+
+## How
+
+Install `dotnet tool install -g dotnet-drama`
 
 ---
 

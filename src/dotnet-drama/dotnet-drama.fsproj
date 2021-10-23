@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <PackAsTool>true</PackAsTool>
-    <ToolCommandName>drama</ToolCommandName>
+    <ToolCommandName>dotnet-drama</ToolCommandName>
     <RollForward>Major</RollForward>
   </PropertyGroup>
   <PropertyGroup>
